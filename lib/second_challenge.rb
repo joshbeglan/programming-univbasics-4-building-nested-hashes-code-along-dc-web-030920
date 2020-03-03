@@ -16,8 +16,7 @@ def second_challenge
            attitude: "hot-headed"
          }
        ]
-     },
-      }, 
+    },
     :capulet => {
       :patriarch => {},
       :matriarch => {},
@@ -34,7 +33,8 @@ def second_challenge
            attitude: "worried"
          }
        ]
-      }}
+      }
+    }
 
   
 end
